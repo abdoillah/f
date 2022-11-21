@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+    transition: all .5s;
+}
+h1{
+    color: antiquewhite;
+    margin: 20%;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
